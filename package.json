@@ -1,0 +1,26 @@
+{
+  "name": "dns-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-Harsh-oo7:Harsh-oo7/dns-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.5"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "denamed": "^2.0.4",
+    "dotenv": "^16.4.7",
+    "node-fetch": "^3.3.2"
+  }
+}
